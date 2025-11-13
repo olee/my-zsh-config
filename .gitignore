@@ -1,0 +1,5 @@
+
+/.zcompdump*
+/.zsh_plugins.zsh
+/conf.d
+/conf.d.disabled
